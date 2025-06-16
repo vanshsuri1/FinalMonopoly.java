@@ -1,0 +1,42 @@
+!SESSION 2025-06-14 18:49:31.210 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/vanshsuri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/vanshsuri/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-14 18:49:35.311
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-14 18:49:47.530
+!MESSAGE Logback config file: /Users/vanshsuri/Desktop/MonopolyShare/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-06-14 18:53:40.037
+!MESSAGE Can't connect to any repository: 
+!SESSION 2025-06-16 16:35:07.120 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/vanshsuri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/vanshsuri/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-16 16:35:11.314
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-16 16:35:18.972
+!MESSAGE Logback config file: /Users/vanshsuri/Desktop/MonopolyShare/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-06-16 18:41:11.224 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/vanshsuri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/vanshsuri/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-16 18:41:15.252
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-16 18:41:50.668
+!MESSAGE Logback config file: /Users/vanshsuri/Desktop/MonopolyShare/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
